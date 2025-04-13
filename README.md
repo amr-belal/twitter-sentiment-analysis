@@ -135,4 +135,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 > 💬 Have questions or suggestions? Feel free to open an issue or connect with the contributors!
+
+## 👥 Team Members
+
+- **Ibrahim Abdelsattar** *(Team Leader)*
+- Amr Belal  
+- Nour Mostafa  
+- Moaz Ramadan  
+- Noran Alaa
+
 ```!
