@@ -1,6 +1,3 @@
-Sure! Here's the **entire `README.md` content in a single code cell**, so you can easily copy and paste it directly into GitHub or your editor:
-
-```markdown
 # 🐦 Twitter Sentiment Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)](https://www.python.org/)
