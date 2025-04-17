@@ -110,7 +110,7 @@ jupyter notebook Twitter_Sentiment_Analysis.ipynb
 
 ## 📊 Results
 
-After training and testing the model, accuracy was measured at around **X%** (replace with actual value).
+After training and testing the model, accuracy was measured at around **76%**.
 
 📌 **Confusion Matrix**, **Precision**, **Recall**, and **F1-score** are plotted in the notebook.
 
